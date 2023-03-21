@@ -10,4 +10,9 @@ used. The project is consists of multiple data pre-processing
 steps to get the image representation of the audio files and
 labeled the data
 
-![spec](https://user-images.githubusercontent.com/14100704/226653053-bfc444d9-eda1-402e-8fac-17bd3c047450.PNG)
+
+![spec_1](https://user-images.githubusercontent.com/14100704/226654676-129e2b95-0756-4b9b-b504-25cef28aca8a.PNG)
+
+![acc_1](https://user-images.githubusercontent.com/14100704/226655141-ae19234f-dc48-4985-9d4e-479fbc04b795.PNG)
+
+![acc_2](https://user-images.githubusercontent.com/14100704/226655173-53692fcb-798a-4d93-9422-07e85b517c91.PNG)
