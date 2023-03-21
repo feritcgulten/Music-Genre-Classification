@@ -9,3 +9,5 @@ model since the image representation of the audio files are
 used. The project is consists of multiple data pre-processing
 steps to get the image representation of the audio files and
 labeled the data
+
+![spec](https://user-images.githubusercontent.com/14100704/226653053-bfc444d9-eda1-402e-8fac-17bd3c047450.PNG)
