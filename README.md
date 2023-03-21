@@ -1,5 +1,5 @@
 # Music-Genre-Classification using Spectograms(2D CNN)
-This is a music genre classification project made for 'Neural Networks and Deep Learning' course during the master degree. The fma_small data was used from https://github.com/mdeff/fma.
+This is a music genre classification project made for 'Neural Networks and Deep Learning' course during the master degree. For the samples of the songs fma_small data was used from https://github.com/mdeff/fma.
 
 The purpose of this project is classifying music genres
 based on their spectrogram using CNN model. The goal of
